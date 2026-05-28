@@ -1,0 +1,90 @@
+[
+  {
+    "id": "p001",
+    "name": "Classic Black Blazer",
+    "description": "A timeless black blazer crafted from premium fabric. Perfect for both formal and smart-casual occasions.",
+    "price": 8500,
+    "category": "Men",
+    "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=400",
+    "sizes": ["S", "M", "L", "XL"],
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p002",
+    "name": "Silk Evening Dress",
+    "description": "Elegant silk evening dress with a flowing silhouette. Designed for the modern woman.",
+    "price": 12500,
+    "category": "Women",
+    "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=400",
+    "sizes": ["XS", "S", "M", "L"],
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "p003",
+    "name": "Gold Chain Necklace",
+    "description": "Handcrafted 18k gold-plated chain necklace. A statement piece for any outfit.",
+    "price": 4500,
+    "category": "Accessories",
+    "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=400",
+    "sizes": ["One Size"],
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "p004",
+    "name": "Slim Fit Trousers",
+    "description": "Tailored slim-fit trousers in charcoal grey. Versatile and sophisticated.",
+    "price": 5500,
+    "category": "Men",
+    "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=400",
+    "sizes": ["S", "M", "L", "XL"],
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "p005",
+    "name": "Wrap Midi Skirt",
+    "description": "Elegant wrap midi skirt in deep navy. Effortlessly chic for any occasion.",
+    "price": 6200,
+    "category": "Women",
+    "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=400",
+    "sizes": ["XS", "S", "M", "L"],
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "p006",
+    "name": "Leather Oxford Shoes",
+    "description": "Premium full-grain leather oxford shoes. Handcrafted for lasting comfort and style.",
+    "price": 15000,
+    "category": "Footwear",
+    "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=400",
+    "sizes": ["40", "41", "42", "43", "44"],
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "p007",
+    "name": "Cashmere Turtleneck",
+    "description": "Luxuriously soft cashmere turtleneck sweater. Available in classic neutral tones.",
+    "price": 9800,
+    "category": "Women",
+    "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=400",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "p008",
+    "name": "Structured Tote Bag",
+    "description": "Premium structured tote in genuine leather. Spacious, stylish, and built to last.",
+    "price": 11000,
+    "category": "Accessories",
+    "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=400",
+    "sizes": ["One Size"],
+    "isNew": false,
+    "isFeatured": false
+  }
+]

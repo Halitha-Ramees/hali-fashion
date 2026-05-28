@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665121432464",
+    "project_id": "hali-fashion",
+    "storage_bucket": "hali-fashion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665121432464:android:dd4d7f2b84ad70ace88915",
+        "android_client_info": {
+          "package_name": "Halifashion.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0hP1dfTy0uShdWmrXUqslXY_ylJr6WaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
